@@ -1,6 +1,6 @@
 <h1 align="left"> Hello World! I'm David Cândido <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> </h1>
 
-- 📝 Computer Science Student at CESAR School.
+- 📝 Computer Science Student at Catholic University(UNICAP).
 
 - 🗺️ Living in Recife, Pernambuco.
 
