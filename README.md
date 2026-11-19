@@ -1,26 +1,64 @@
-<h1 align="left"> Hello World! I'm David Cândido <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> </h1>
+# Hi there, I'm David Cândido! 👋
 
-- 📝 Computer Science Student at Catholic University(UNICAP).
+### 👨‍💻 Computer Science Student | Software Development Enthusiast
 
-- 🗺️ Living in Recife, Pernambuco.
+I'm a Computer Science undergraduate at **Universidade Católica de Pernambuco (UNICAP)**, based in Recife, Brazil. 🇧🇷
 
-- 💬 I speak **Portuguese** (fluent) and **English** (reading and writing).
+I'm passionate about technology, solving problems, and turning ideas into practical software solutions. I'm constantly learning new technologies and improving my skills through academic and personal projects.
 
-<br>
+## 🚀 About Me
 
-## 🛠 &nbsp;Technologies I've worked with
-<div style="display: inline_block"><br>
-  <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-</div>
+- 🎓 Studying Computer Science at UNICAP.
+- 💻 Interested in Software Engineering, Web and Mobile Development.
+- 📚 Exploring software architecture, algorithms, and new technologies.
+- 🌎 Native Portuguese speaker, with English reading and writing skills.
+- 🎯 Focused on growing as a developer and building meaningful projects.
 
-<br><br>
+## 🛠️ Tech Stack
 
-## 📧 &nbsp; Connect with me
- <div>
-   <a href="https://www.linkedin.com/in/david-c%C3%A2ndido-89422923b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:davidcandido1914@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/davidcands" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+**Programming Languages**
 
- </div> 
- 
+Java · Python · C · JavaScript · TypeScript
+
+**Web Development**
+
+HTML · CSS · React · Next.js
+
+**Mobile Development**
+
+React Native · Expo
+
+**Tools & Version Control**
+
+Git · GitHub · VS Code
+
+## 📌 Featured Projects
+
+### ☕ Integrated Management System — Java
+
+An object-oriented system combining three management modules: restaurant, medical clinic, and events.
+
+My contributions focused on restaurant management, including orders, tables, items, and discounts.
+
+[View Project](https://github.com/DavidCands/Projeto-de-POO)
+
+### 🌐 Personal Portfolio — Next.js
+
+A personal website presenting my background, technologies, and projects, including an interactive Hangman game.
+
+[View Repository](https://github.com/DavidCands/site-david) | [Live Website](https://site-david-tan.vercel.app/)
+
+### 📱 Mobile Development — Expo & TypeScript
+
+Mobile application projects developed while exploring React Native, Expo, and TypeScript.
+
+[David-app](https://github.com/DavidCands/David-app) | [App-Mobile-2.0](https://github.com/DavidCands/App-Mobile-2.0)
+
+## 🤝 Connect With Me
+
+- 🌐 [Personal Portfolio](https://site-david-tan.vercel.app/)
+- 💻 [GitHub](https://github.com/DavidCands)
+
+---
+
+*Always learning, building, and improving — one commit at a time.* 🚀
