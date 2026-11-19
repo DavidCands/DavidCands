@@ -16,19 +16,19 @@ I'm passionate about technology, solving problems, and turning ideas into practi
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+**Programming Languages:**
 
 Java · Python · C · JavaScript · TypeScript
 
-**Web Development**
+**Web Development:**
 
 HTML · CSS · React · Next.js
 
-**Mobile Development**
+**Mobile Development:**
 
 React Native · Expo
 
-**Tools & Version Control**
+**Tools & Version Control:**
 
 Git · GitHub · VS Code
 
